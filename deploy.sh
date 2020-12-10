@@ -1,4 +1,4 @@
-GOOGLE_PROJECT_ID=dockeruniversidades
+GOOGLE_PROJECT_ID=dockertechtalks
 IMAGE_NAME=nodedockerizado
 SERVICE_NAME=servicenodedockerizada
 
